@@ -14,16 +14,17 @@ passionate about single  cell data sceince and network biology.
 
 ### 🛠️ Skills & Tools
 - **Programming:** Python (pandas, scikit-learn, PyTorch), R (tidyverse, Bioconductor)  
-- **Bioinformatics:** RNA-seq, WGCNA, multi-omics integration, NGS analysis  
+- **Bioinformatics:** RNA-seq, multi-omics integration, NGS analysis  
 - **Data Science:** Statistics, machine learning, deep learning  
 - **Other:** snakemake pipelines, Linux, Git  
 
 ---
 
-### 📌 Featured Projects
-- **RNA-seq Analysis Pipeline** – Automated preprocessing & DEG analysis using Nextflow  
-- **Multi-Omics Cancer Integration** – Patient similarity networks using SNF  
-- **Prostate Cancer Biomarker Discovery** – Transcriptomics + ML + network centrality  
+### 📌 Projects
+- **Prostate Cancer Biomarker Discovery** – DEA + ML + network centrality
+- **RNA-seq Analysis Pipeline** – Automated preprocessing & DEG analysis using Nextflow   
+- **Differential Cell-Type Composetion Analysis on Glioblastoma Subtypes** - single cell Transcriptomic refrence based cell-type deconvolution of Bulk RNA-Seq samples
+                                                                              
 
 ---
 
