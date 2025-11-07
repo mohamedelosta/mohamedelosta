@@ -5,7 +5,7 @@ passionate about single  cell data sceince and network biology.
 ---
 
 ### 🔬 Research Interests
-- Transcriptomics, epigenomics, and integrative multi-omics  
+- Transcriptomics, Proteomics and integrative multi-omics  
 - Biomarker discovery in cancer biology  
 - Machine learning & statistical modeling for biomedical data  
 - Network biology & systems approaches  
@@ -22,8 +22,9 @@ passionate about single  cell data sceince and network biology.
 
 ### 📌 Projects
 - **Prostate Cancer Biomarker Discovery** – DEA + ML + network centrality
-- **RNA-seq Analysis Pipeline** – Automated preprocessing & DEG analysis using Nextflow   
+- **RNA-seq Analysis Pipeline** – Automated preprocessing & DEG analysis 
 - **Differential Cell-Type Composetion Analysis on Glioblastoma Subtypes** - single cell Transcriptomic refrence based cell-type deconvolution of Bulk RNA-Seq samples
+- **AutoEncoder For Single-Cell Transcriptomics Dimensionality Reduction** - Trained constructive autoencoder on GBmap single-cell atlas by ((Cristian Ruiz-Moreno et al.,2025)
                                                                               
 
 ---
